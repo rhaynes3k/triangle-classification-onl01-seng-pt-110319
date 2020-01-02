@@ -33,7 +33,7 @@ class Triangle
     
     class TriangleError < StandardError
       def message
-        "you must give tides to the Triangle class!"
+        "What up, Yo!? you must give tides to the Triangle class!"
       end
     end
 end
